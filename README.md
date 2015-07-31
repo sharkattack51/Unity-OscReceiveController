@@ -6,4 +6,4 @@ Rug.OSC
 https://bitbucket.org/rugcode/rug.osc
 
 # Usage
-Enter the osc address you want to get the Inspector.
+Enter the OSC address that you want to get the value in UnityEditor inspector.
